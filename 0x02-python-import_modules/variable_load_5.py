@@ -2,4 +2,3 @@
 a = 98
 """This is Simple variable
 """
-
